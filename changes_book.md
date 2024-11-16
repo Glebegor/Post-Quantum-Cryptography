@@ -9,3 +9,8 @@ Here will be container with patches and changes.
 - Creating a project with all nesessary descriptions and main schema.
 - Creting a README files and folders.
 - Getting info and prepearing to work on it.
+
+### Week 2
+
+- Working with kyber implementationin ipynb.
+- Created includes with math operations and etc.
