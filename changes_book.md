@@ -17,7 +17,7 @@ Here will be container with patches and changes.
 - Completed of the easy impl. kyber algorithms.
 
 ### Week 3
-- Fixed cyber
-- Working on implementation of Falcon
-- Sphincs
+- Fixed kyber
+- Created Falcon
+- Working on Sphincs
 - dilithium
