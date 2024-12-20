@@ -15,3 +15,9 @@ Here will be container with patches and changes.
 - Working with kyber implementationin ipynb.
 - Created includes with math operations and etc.
 - Completed of the easy impl. kyber algorithms.
+
+### Week 3
+- Fixed cyber
+- Working on implementation of Falcon
+- Sphincs
+- dilithium
